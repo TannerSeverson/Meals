@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "84A70F08-D718-431D-8D7B-287EA0373A10",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:",
+        "identifier" : "Networking-Tests",
+        "name" : "Networking-Tests"
+      }
+    }
+  ],
+  "version" : 1
+}

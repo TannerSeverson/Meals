@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "9FA21215-B48E-49D1-B860-7B185429D5D2",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:Meals.xcodeproj",
+        "identifier" : "C36FD4482C29DA3F00560AF3",
+        "name" : "Meals-UITests-iPad-13-Inchs"
+      }
+    }
+  ],
+  "version" : 1
+}

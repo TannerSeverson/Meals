@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "73CD1DD5-4D40-4614-8982-E7067FA7D74D",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:",
+        "identifier" : "Mocks-Tests",
+        "name" : "Mocks-Tests"
+      }
+    }
+  ],
+  "version" : 1
+}

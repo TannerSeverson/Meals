@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "BC12935A-ACF3-4994-984D-35F14D61D680",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:Meals.xcodeproj",
+        "identifier" : "C33C77842C14B9230054D877",
+        "name" : "Meals-Tests"
+      }
+    }
+  ],
+  "version" : 1
+}

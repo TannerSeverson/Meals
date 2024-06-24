@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "D68574A3-E69D-46D8-8B35-2F99C416159B",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:",
+        "identifier" : "Meals-Client-Tests",
+        "name" : "Meals-Client-Tests"
+      }
+    }
+  ],
+  "version" : 1
+}

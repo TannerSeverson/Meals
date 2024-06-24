@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "FF380463-C5AA-401A-BA72-DFFD65E938D6",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:Meals.xcodeproj",
+        "identifier" : "C347AF892C29DD4300D77984",
+        "name" : "Meals-UITests-iPhone-6.69-Inches"
+      }
+    }
+  ],
+  "version" : 1
+}
